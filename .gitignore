@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore dataset images (heavy files)
+dataset/
+
+# Ignore model file (if heavy)
+*.keras
+
+# Ignore practice files (Optional - remove these lines if you want p1-p4 on GitHub)
+p1.py
+p2.py
+p3.py
+p4.py
